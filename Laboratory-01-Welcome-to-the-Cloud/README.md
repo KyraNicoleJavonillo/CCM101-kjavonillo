@@ -1,4 +1,4 @@
-# CCM101-KJavonillo
+# CCM101-kjavonillo
 
 ## About Me
 
